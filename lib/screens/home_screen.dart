@@ -89,7 +89,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         // TODO: Sinh viên thay thế thông tin của mình vào đây
-        title: const Text('Smart Note - [Tạ Anh Tuấn] - [2351060494]'),
+        title: const Text('Smart Note - Tạ Anh Tuấn - 2351060494'),
       ),
       body: Column(
         children: [
